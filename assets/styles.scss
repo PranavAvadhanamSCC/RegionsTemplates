@@ -2,6 +2,8 @@
 title: false
 styles: true
 ---
+@import "alembic";
+
 // Background colours
 $backgroundColour: #e3b840  !default;
 $codeBackgroundColour: #fafafa !default;
@@ -38,5 +40,3 @@ $monospacetype: (
   regular: 400,
   cap-height: 0.68
 ) !default;
-
-@import "alembic";
