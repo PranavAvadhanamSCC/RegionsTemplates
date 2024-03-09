@@ -26,7 +26,6 @@ remote_theme: daviddarnes/alembic@main
 - CONTRIBUTING.md
 - screenshot.png
 - LICENSE
-- CNAME
 
 # 2. Installed Gems
 plugins:
