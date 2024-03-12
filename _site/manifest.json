@@ -1,0 +1,28 @@
+{
+  "lang": "en-GB",
+  "name": "Alembic",
+  "short_name": "Alembic",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+      {
+        "src": "/assets/logos/favicon-16x16.png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "/assets/logos/favicon-32x32.png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/assets/logos/android-chrome-192x192.png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/logos/android-chrome-512x512.png",
+        "sizes": "512x512"
+      }
+      
+    ],
+  "start_url": "/",
+  "display": "standalone"
+}
