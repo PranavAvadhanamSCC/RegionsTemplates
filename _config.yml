@@ -98,7 +98,7 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Steel City Codes is on a mission to promote inclusivity in STEM by educating young students in computer science. Everything we offer is completely cost-free so that anybody, regardless of their situation, can take advantage of our offerings." # Site description and default description, also used in jekyll-seo-tag
 region: Example
 url: "https://pranavavadhanamscc.github.io/RegionsTemplates/" # Site url, also used in jekyll-seo-tag
-baseurl: "/RegionsTemplates"
+baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -119,15 +119,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Meet the Team
-  url: /team/
+  url: RegionsTemplates/team/
 - title: Enroll
-  url: /enroll/
+  url: RegionsTemplates/enroll/
 - title: Volunteer
-  url: /volunteer/
+  url: RegionsTemplates/volunteer/
 - title: Donate
-  url: /donate/
+  url: RegionsTemplates/donate/
 - title: Contact Us
-  url: /contact/
+  url: RegionsTemplates/contact/
 
 navigation_footer:
 - title: Steel City Codes
